@@ -1,0 +1,23 @@
+# pve-pulse config - copy to ~/.config/pve-pulse/config
+# Lines are KEY=value. Unknown keys are ignored.
+
+# Backend: auto | local | api | demo
+# auto = use qm/pct if we're on a Proxmox node, else API if PVE_HOST+PVE_TOKEN
+#        are set, else fall back to demo mode.
+PVE_BACKEND=auto
+
+# For the api backend:
+# host or IP of a Proxmox node (no https://, no port)
+PVE_HOST=pve-lab.local
+# API token in the form USER@REALM!TOKENID=secret-uuid
+# create one in the Proxmox web UI: Datacenter -> Access -> API Tokens
+PVE_TOKEN=
+# node name to manage (auto-detected if empty)
+PVE_NODE=pve-lab
+
+# Set to 0 to skip TLS certificate verification (self-signed certs).
+# Only do this on your own LAN, obviously.
+VERIFY_TLS=1
+
+# Set to 0 to disable colors.
+PVE_PULSE_COLORS=1

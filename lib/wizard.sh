@@ -3,7 +3,7 @@
 # Builds a `qm create` / `pct create` command, shows a preview,
 # asks for confirmation, then executes (demo backend: simulates).
 #
-# Author: Mohamed Yassi (github.com/medyas6) - 2026
+# Author: Mohamed Yassine (github.com/medyas6) - 2026
 # License: MIT
 
 [ -n "${_PVE_PULSE_WIZARD_SH:-}" ] && return 0

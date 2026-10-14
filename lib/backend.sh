@@ -9,7 +9,7 @@
 # Node info format (KEY=value lines):
 #   hostname, uptime_s, cpu_pct, ram_used_mb, ram_total_mb, disk_used_gb, disk_total_gb
 #
-# Author: Mohamed Yassi (github.com/medyas6) - 2026
+# Author: Mohamed Yassine (github.com/medyas6) - 2026
 # License: MIT
 
 [ -n "${_PVE_PULSE_BACKEND_SH:-}" ] && return 0

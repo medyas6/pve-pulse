@@ -2,7 +2,7 @@
 # TUI helpers: screen, banners, boxes, tables, menus, status badges.
 # Pure bash/ANSI - no whiptail or dialog required.
 #
-# Author: Mohamed Yassi (github.com/medyas6) - 2026
+# Author: Mohamed Yassine (github.com/medyas6) - 2026
 # License: MIT
 
 [ -n "${_PVE_PULSE_UI_SH:-}" ] && return 0

@@ -142,4 +142,4 @@ See [CHANGELOG.md](CHANGELOG.md).
 
 ## License
 
-MIT — see [LICENSE](LICENSE). Copyright 2026 Mohamed Yassi.
+MIT — see [LICENSE](LICENSE). Copyright 2026 Mohamed Yassine.

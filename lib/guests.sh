@@ -1,7 +1,7 @@
 # pve-pulse - lib/guests.sh
 # Guest (VM/CT) operations: listing, power actions, console, IPs, bulk actions.
 #
-# Author: Mohamed Yassi (github.com/medyas6) - 2026
+# Author: Mohamed Yassine (github.com/medyas6) - 2026
 # License: MIT
 
 [ -n "${_PVE_PULSE_GUESTS_SH:-}" ] && return 0

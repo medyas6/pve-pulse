@@ -2,7 +2,7 @@
 # Snapshot operations: list, create, rollback, delete.
 # Rollback and delete are destructive -> require typed YES confirmation.
 #
-# Author: Mohamed Yassi (github.com/medyas6) - 2026
+# Author: Mohamed Yassine (github.com/medyas6) - 2026
 # License: MIT
 
 [ -n "${_PVE_PULSE_SNAPSHOTS_SH:-}" ] && return 0

@@ -1,7 +1,7 @@
 # pve-pulse - lib/backups.sh
 # Backup operations: list vzdump archives, run a backup now, schedule hints.
 #
-# Author: Mohamed Yassi (github.com/medyas6) - 2026
+# Author: Mohamed Yassine (github.com/medyas6) - 2026
 # License: MIT
 
 [ -n "${_PVE_PULSE_BACKUPS_SH:-}" ] && return 0

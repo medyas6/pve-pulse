@@ -6,7 +6,7 @@
 # Snapshot:     type/vmid|name|description|date
 # Backup:       file|size|date
 #
-# Author: Mohamed Yassi (github.com/medyas6) - 2026
+# Author: Mohamed Yassine (github.com/medyas6) - 2026
 # License: MIT
 
 [ -n "${_PVE_PULSE_DEMO_DATA_SH:-}" ] && return 0

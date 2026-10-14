@@ -4,7 +4,7 @@
 # and a node dashboard. Works against the local node, the Proxmox API,
 # or in demo mode with fake data.
 #
-# Author: Mohamed Yassi (github.com/medyas6)
+# Author: Mohamed Yassine (github.com/medyas6)
 # License: MIT
 
 set -u

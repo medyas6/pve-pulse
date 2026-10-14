@@ -1,7 +1,7 @@
 # pve-pulse - lib/dashboard.sh
 # Node dashboard: hostname, uptime, CPU/RAM/disk usage bars, guest counts.
 #
-# Author: Mohamed Yassi (github.com/medyas6) - 2026
+# Author: Mohamed Yassine (github.com/medyas6) - 2026
 # License: MIT
 
 [ -n "${_PVE_PULSE_DASHBOARD_SH:-}" ] && return 0

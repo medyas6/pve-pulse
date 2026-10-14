@@ -2,7 +2,7 @@
 # Core helpers: config loading, logging, colors, small utilities.
 # Sourced once by pve-pulse.sh. Guard prevents double-sourcing.
 #
-# Author: Mohamed Yassi (github.com/medyas6) - 2026
+# Author: Mohamed Yassine (github.com/medyas6) - 2026
 # License: MIT
 
 [ -n "${_PVE_PULSE_CORE_SH:-}" ] && return 0

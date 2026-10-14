@@ -22,6 +22,8 @@ by TimInTech — I liked the idea and reimplemented it my own way, as a set of
 small modules instead of one big script, with a demo mode so you can try
 everything without a server.
 
+![pve-pulse demo](demo.gif)
+
 ## Features
 
 | # | Menu entry | What it does |
